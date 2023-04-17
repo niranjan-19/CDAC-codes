@@ -1,5 +1,4 @@
-# CDAC-codes-
-Practice codes 
+# CDAC-codes
 This repository contains codes that I wrote to practice and learn different concepts during my CDAC training. The codes cover various topics such as data structures, algorithms, programming languages, and operating systems.
 
 Getting Started
